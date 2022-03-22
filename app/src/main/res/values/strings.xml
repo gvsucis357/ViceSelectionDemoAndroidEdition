@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViceSelectionAndroidEdition</string>
+    <string name="title_activity_vice_selection">ViceSelectionActivity</string>
+
+    <string-array name="vices">
+        <item>Steak</item>
+        <item>Ice Cream</item>
+        <item>Beer</item>
+        <item>Omlettes</item>
+    </string-array>
+
+</resources>
